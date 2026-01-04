@@ -1,0 +1,18 @@
+# 核心RAG框架
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-google-genai
+
+# PDF处理
+PyMuPDF
+
+# 数据处理
+numpy
+pandas
+
+# API调用
+openai
+requests
+
+# 其他工具
+python-dotenv
