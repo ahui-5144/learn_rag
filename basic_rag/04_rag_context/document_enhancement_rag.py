@@ -2,7 +2,6 @@
 import json
 import os
 import re
-from lib2to3.pgen2.tokenize import printtoken
 
 import fitz
 import numpy as np
